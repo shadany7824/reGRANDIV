@@ -8,7 +8,7 @@ As 13 October 2026, the progress is now focusing on reverse engineering the game
 
 # Links
 
-Telegram: @reGRANDTA
+Telegram: https://t.me/reGRANDTA
 
 Discord: https://discord.gg/hrbcPjjZfj
 
